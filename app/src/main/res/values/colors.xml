@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#292929</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+
+    <color name="colorTextPrimary">#292929</color>
+    <color name="colorTextDisable">#9E9E9E</color>
+    <color name="colorBG">#E2E2E2</color>
+
+    <!-- for api level <= 21 -->
+    <color name="black">#000000</color>
+    <color name="transparent">#272727</color>
+    <color name="transparent_dark">#292929</color>
+
+
+    <color name="colorPrimaryDark1">#474747</color>
+
+
+    <color name="green">#50fc31</color>
+    <color name="green1">#30ce00</color>
+    <color name="greenbtn">#00c717</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorgray">#dcdcdc</color>
+    <color name="colormediam">#757575</color>
+
+    <color name="background_color">#121720</color>
+    <color name="black1">#1f1f1f</color>
+    <color name="btnBase">#585556</color>
+    <color name="white">#ffffff</color>
+    <color name="white_trans">#beffffff</color>
+
+
+
+
+    <color name="screen1">#F44336</color>
+    <color name="screen2">#64DD17</color>
+    <color name="screen3">#9C27B0</color>
+
+
+    <array name="dot_on_page_active">
+        <item>#B71C1C</item>
+        <item>#8BC34A</item>
+        <item>#4A148C</item>
+
+    </array>
+
+    <array name="dot_on_page_not_active">
+        <item>#FF5252</item>
+        <item>#CCFF90</item>
+        <item>#E040FB</item>
+    </array>
+</resources>

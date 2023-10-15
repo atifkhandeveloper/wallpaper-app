@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wallpapers_Source_code_V002.iml" filepath="$PROJECT_DIR$/.idea/modules/Wallpapers_Source_code_V002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidunsplash/Wallpapers_Source_code_V002.androidunsplash.iml" filepath="$PROJECT_DIR$/.idea/modules/androidunsplash/Wallpapers_Source_code_V002.androidunsplash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidunsplash/Wallpapers_Source_code_V002.androidunsplash.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidunsplash/Wallpapers_Source_code_V002.androidunsplash.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidunsplash/Wallpapers_Source_code_V002.androidunsplash.main.iml" filepath="$PROJECT_DIR$/.idea/modules/androidunsplash/Wallpapers_Source_code_V002.androidunsplash.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidunsplash/Wallpapers_Source_code_V002.androidunsplash.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidunsplash/Wallpapers_Source_code_V002.androidunsplash.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wallpapers_Source_code_V002.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wallpapers_Source_code_V002.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wallpapers_Source_code_V002.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wallpapers_Source_code_V002.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wallpapers_Source_code_V002.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wallpapers_Source_code_V002.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wallpapers_Source_code_V002.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wallpapers_Source_code_V002.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

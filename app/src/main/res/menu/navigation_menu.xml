@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/hom"
+        android:iconTint="@color/black"/>
+    <item android:id="@+id/categories"
+        android:title="Categories"
+        android:icon="@drawable/cate"
+        android:iconTint="@color/black"/>
+    <item android:id="@+id/favourites"
+        android:title="Favourites"
+        android:icon="@drawable/fav"
+        android:iconTint="@color/black"/>
+    <item android:id="@+id/privacy"
+        android:title="Privacy Policy"
+        android:icon="@drawable/prr"
+        android:iconTint="@color/black"/>
+    <item android:id="@+id/rate"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_rate"
+        android:iconTint="@color/black"/>
+    <item android:id="@+id/share"
+        android:title="Share App"
+        android:icon="@drawable/share"
+        android:iconTint="@color/black"/>
+
+</menu>

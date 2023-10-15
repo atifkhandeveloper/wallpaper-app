@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/textQuotesOfDay"
+        android:visible="false"
+        android:title="@string/txt_asQutesOfDay" />
+    <item
+        android:id="@+id/imagePrivacy"
+        android:title="@string/txt_privacy1" />
+    <item
+        android:id="@+id/imageMore"
+        android:title="@string/more"
+        android:visible="false"/>
+    <item
+        android:id="@+id/imageRate"
+        android:title="@string/txt_asRate"
+        android:visible="false"/>
+    <item
+        android:id="@+id/imageHelp"
+        android:visible="false"
+        android:title="Share App" />
+</menu>
